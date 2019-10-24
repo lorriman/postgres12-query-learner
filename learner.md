@@ -1,3 +1,5 @@
+PostgreSQL Query Learner Guide - intermediate level
+
 \- 24 September 2019
 
 Edited and abridged by Gregory Lorriman 2019
