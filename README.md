@@ -2,6 +2,11 @@
 
 Query (SELECT) Learner guide based on abridged version of the official docs for version 12.
 
+
+## Kindle or electronic readers
+
+The docx version is dowloadable in order to be sent via email to your kindle or kindle app via a kindle address as configured on your Amazon account. The document is formatted to be readable in portrait mode at a font size of 4 using the Bookerly font.
+
 ## Intermediate level
 
 This is an intermediate-level guide for people wishing to query an SQL database, perhaps to extract data for a spreadsheet. 
